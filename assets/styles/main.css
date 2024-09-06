@@ -28,7 +28,6 @@ body {
     font-style: normal;
     padding: 20px;
     color: #fff;
-    text-shadow: 2px 2px 5px #00000086;
     position: relative;
 }
 
@@ -140,7 +139,6 @@ h1.headline img {
     text-align: center;
     text-transform: uppercase;
     font-size: 34px;
-    text-shadow: none;
 }
 
 @media screen and (min-width: 768px) {
